@@ -1,0 +1,18 @@
+<extensions>
+    <details>
+        <title lang="EN">SuperDateTime Repository</title>
+    </details>
+    <plugins>
+        <plugin name="SuperDateTime" version="5.11.54" minTarget="7.4" maxTarget="9.*">
+            <title lang="EN">SuperDateTime</title>
+            <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
+            <changes lang="EN">Added Icons for Pollen Forecasts and Air Quality Observations. Thanks @PetGeer</changes>
+            <catagory>information</catagory>
+            <url>https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-54.zip</url>
+            <sha>89ff2b6d85a99bf7c76b59b3f1a21db1b1221498</sha>
+            <link>https://sourceforge.net/projects/sdt-weather-com/</link>
+            <icon>https://downloads.sourceforge.net/project/sdt-weather-com/30.png</icon>
+            <creator>G Brown, D Grossman</creator>
+        </plugin>
+    </plugins>
+</extensions>
