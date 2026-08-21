@@ -3,15 +3,15 @@
         <title lang="EN">SuperDateTime Repository</title>
     </details>
     <plugins>
-        <plugin name="SuperDateTime" version="5.11.54" minTarget="7.4" maxTarget="9.*">
+        <plugin name="SuperDateTime" version="5.12.15" minTarget="7.4" maxTarget="*">
             <title lang="EN">SuperDateTime</title>
             <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
-            <changes lang="EN">Added Icons for Pollen Forecasts and Air Quality Observations. Thanks @PetGeer</changes>
+            <changes lang="EN">Fixed NFL scores for 2026 season.</changes>
             <catagory>information</catagory>
-            <url>https://downloads.sourceforge.net/project/sdt-weather-com/SuperDateTime5-11-54.zip</url>
-            <sha>89ff2b6d85a99bf7c76b59b3f1a21db1b1221498</sha>
-            <link>https://sourceforge.net/projects/sdt-weather-com/</link>
-            <icon>https://downloads.sourceforge.net/project/sdt-weather-com/30.png</icon>
+            <url>https://raw.githubusercontent.com/boom-X2/sdt-weather-com/main/SuperDateTime5-12-15.zip</url>
+            <sha>9d956305a392d0e3a00b1554e8244530a27db7db</sha>
+            <link>https://github.com/boom-X2/sdt-weather-com/</link>
+            <icon>https://raw.githubusercontent.com/boom-X2/sdt-weather-com/main/30.png</icon>
             <creator>G Brown, D Grossman</creator>
         </plugin>
     </plugins>
