@@ -3,13 +3,13 @@
         <title lang="EN">SuperDateTime Repository</title>
     </details>
     <plugins>
-        <plugin name="SuperDateTime" version="5.12.18" minTarget="7.4" maxTarget="*">
+        <plugin name="SuperDateTime" version="5.12.19" minTarget="7.4" maxTarget="*">
             <title lang="EN">SuperDateTime</title>
             <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
-            <changes lang="EN">Fixed NCAA college football team display name and team selection.</changes>
+            <changes lang="EN">Improved retrieval and display of NCAA college football team logos.</changes>
             <catagory>information</catagory>
-            <url>https://github.com/Boom-X2/sdt-weather-com/releases/download/5.12.18/SuperDateTime.zip</url>
-            <sha>5e85092aa2a36d8a626d074c1d4dc15d6d8331d5</sha>
+            <url>https://github.com/Boom-X2/sdt-weather-com/releases/download/5.12.19/SuperDateTime.zip</url>
+            <sha>a857cc3a7d102671683b621853e5693bc38f72ac</sha>
             <link>https://github.com/boom-X2/sdt-weather-com/</link>
             <icon>https://raw.githubusercontent.com/boom-X2/sdt-weather-com/main/30.png</icon>
             <creator>G Brown, D Grossman</creator>
