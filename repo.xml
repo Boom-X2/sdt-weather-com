@@ -3,7 +3,7 @@
         <title lang="EN">SuperDateTime Repository</title>
     </details>
     <plugins>
-        <plugin name="SuperDateTime" version="5.12.19" minTarget="7.4" maxTarget="*">
+        <plugin name="SuperDateTime" version="5.12.20" minTarget="7.4" maxTarget="*">
             <title lang="EN">SuperDateTime</title>
             <desc lang="EN">Displays local time, date, weather, sports, and stock information.</desc>
             <changes lang="EN">Fixed weather data retrieval for averages and personal weather stations.</changes>
